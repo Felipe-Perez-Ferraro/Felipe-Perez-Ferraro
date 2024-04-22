@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Hello, I'm Felipe Perez Ferraro, a Full Stack Developer with a recent graduation from Microverse, a remote software development school. In my journey, I've delved into various programming languages including HTML, CSS, JavaScript, React, SQL, and Ruby on Rails, improving myself by doing solo and pair programming projects.
+Hello, I'm Felipe Perez Ferraro, a Full Stack Developer. In my journey, I've delved into various programming languages including HTML, CSS, JavaScript, React, SQL, and Ruby on Rails, improving myself by doing solo and pair programming projects.
 
 ---
 ### :computer: Languages and Tools
@@ -31,25 +31,25 @@ Hello, I'm Felipe Perez Ferraro, a Full Stack Developer with a recent graduation
 <details>
   <summary><h3>:briefcase: Felipe's Developer Journey</h3></summary>
   <p>
-  Hi! I am Felipe, a full-stack developer who graduated from Microverse, a remote software development program that uses pair programming and project building to teach software development. 
+  Hi! I am Felipe.
   
-  So far, I have built projects that allow you to interact with the website, authenticate an user, charge data who is storing in an api, delete or update it. I started by doing simple pages with no interactions and these last few months I did a lot of interactive websites using JavaScript, React and Ruby on Rails.
+  So far, I have built projects that allow you to interact with the website, authenticate a user, charge data that is storing in an API, delete or update it. I started by doing simple pages with no interactions and these last few months I did a lot of interactive websites using JavaScript, React, and Ruby on Rails.
   
-  Before I entered this program I used to work with WordPress and study by myself, but now thanks to Microverse, my technical skills and English have improved a lot.
+  I used to work with WordPress and study by myself, but now, my technical skills and English have improved a lot.
   The things that set me apart as a professional are my listening, comprehension, and problem-solving skills.
   
-  After going through the Microverse Program, I'd love a chance to work for a company outside my country.
+  I'd love a chance to work for a company outside my country.
   
   Here are my skills:
   Front-End: HTML, CSS, JavaScript, React, Redux
   Back-End: SQL, PostgreSQL, Ruby, Ruby on Rails
   Tools: VS Code, Git, Github, Tailwindcss
-  Soft Skills: Communication, Positive Attitude, Teamwork, Adaptability, Problem Solving
+  Soft Skills: Communication, Positive Attitude, Teamwork, Adaptability, Problem-Solving
   
   If you want to have a perfect work environment please contact me
   <br>
   email: fperezferraro@gmail.com
   <br>
-  [Portfolio website](https://my-portfolio-8yix.onrender.com/) 
+  [Portfolio website](https://my-porfolio-website.onrender.com/) 
   </p>
 </details>
